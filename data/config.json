@@ -1,14 +1,14 @@
 {
 	"operator": "!",
 	"mumble": {
-		"server": "192.168.1.18",
+		"server": "127.0.0.1",
 		"port": 64738,
 		"username": "Jeanne",
 		"password": "",
-		"key": "/home/pi/share/jeanne/keys/jeanne.key.pem",
-		"cert": "/home/pi/share/jeanne/keys/jeanne.crt.pem"
+		"key": "",
+		"cert": ""
 	},
-	"locale": "fr",
+	"locale": "en",
 	"extensions": {
 		"audio": {
 			"gain": 0.1,
@@ -16,7 +16,7 @@
 			"volumestep": 0.05
 		},
 		"database": {
-			"location": "/home/pi/share/jeanne/data/database.db"
+			"location": "/home/ubuntu/node-jeanne/data/database.db"
 		},
 		"messenger": {
 			"textmessagelength": 5000
@@ -34,8 +34,8 @@
 			"jump_distance": 20000
 		},
 		"voice": {
-			"map": "/home/pi/share/jeanne/data/voice/map.json",
-			"folder": "/home/pi/share/jeanne/data/voice/",
+			"map": "/home/ubuntu/node-jeanne/data/voice/map.json",
+			"folder": "/home/ubuntu/node-jeanne/data/voice/",
 			"idle_timer": {
 				"min": 300,
 				"max": 1800
