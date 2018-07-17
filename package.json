@@ -1,6 +1,6 @@
 {
   "name": "jeanne",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Jeanne is meant to be a powerful Music bot for Mumble, with voice recogn$
   "main": "index.js",
   "scripts": {
