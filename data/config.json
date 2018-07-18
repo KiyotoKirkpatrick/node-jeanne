@@ -22,8 +22,8 @@
 			"textmessagelength": 5000
 		},
 		"movement": {
-			"home": "Taverne Maggle",
-			"afk": "Autre"
+			"home": "Root",
+			"afk": "AFK"
 		},
 		"youtube": {
 			"search_max_results": 5,
