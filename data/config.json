@@ -30,7 +30,7 @@
 			"subscription_max_videos": 2,
 			"norepeat_length": 15,
 			"auto_play": true,
-			"lang": "en-US",
+			"lang": "US",
 			"jump_distance": 20000
 		},
 		"voice": {
