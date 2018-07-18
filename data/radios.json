@@ -2,7 +2,7 @@
     "npr": {
         "name": "St. Louis NPR",
         "bitrate": 128000,
-        "url": "http://kwmu-sc.streamguys.com/kwmu1.m3u"
+        "url": "http://75.102.43.194/kwmu1-nopreroll"
     },
     "radiokawa": {
         "name": "Radio Kawa",
