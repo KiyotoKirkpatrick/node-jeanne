@@ -3,7 +3,7 @@
 	"mumble": {
 		"server": "127.0.0.1",
 		"port": 64738,
-		"username": "Jeanne",
+		"username": "J.A.R.V.I.S.",
 		"password": "",
 		"key": "",
 		"cert": ""
@@ -30,7 +30,7 @@
 			"subscription_max_videos": 2,
 			"norepeat_length": 15,
 			"auto_play": true,
-			"lang": "fr",
+			"lang": "en",
 			"jump_distance": 20000
 		},
 		"voice": {
