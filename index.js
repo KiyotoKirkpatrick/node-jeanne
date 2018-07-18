@@ -2,8 +2,8 @@ const path = require('path')
 const paths = require('app-module-path').addPath(__dirname)
 
 const debug = require('lib/logger')
-debug.setNS("jeanne")
-debug.enable("jeanne:*")
+debug.setNS("JARVIS")
+debug.enable("JARVIS:*")
 
 const main = require('lib/main')
 
