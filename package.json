@@ -27,6 +27,7 @@
     "parse-youtube-user": "0.0.2",
     "request": "^2.81.0",
     "snyk": "^1.84.0",
+    "speaker": "^0.4.1",
     "sqlite3": "^4.0.0",
     "stumble": "^1.1.1",
     "timed-stream": "^1.1.0",
