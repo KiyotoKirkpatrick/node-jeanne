@@ -29,7 +29,7 @@
     "snyk": "^1.84.0",
     "speaker": "^0.4.1",
     "sqlite3": "^4.0.0",
-    "stumble": "^1.1.1",
+    "stumble": "git+https://github.com/KiyotoKirkpatrick/stumble.git",
     "timed-stream": "^1.1.0",
     "youtube-node": "^1.3.2",
     "ytdl-core": "^0.20.1"
