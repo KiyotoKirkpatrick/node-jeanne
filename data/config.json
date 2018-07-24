@@ -10,6 +10,12 @@
 	},
 	"locale": "en-US",
 	"extensions": {
+		"alias": {
+			"aliases": {
+				">": "tts",
+				"ttsrand": "tts::rand"
+			}
+		},
 		"audio": {
 			"gain": 0.5,
 			"directory": "",
