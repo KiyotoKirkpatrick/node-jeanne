@@ -11,7 +11,7 @@
 	"locale": "en-US",
 	"extensions": {
 		"audio": {
-			"gain": 0.1,
+			"gain": 0.5,
 			"directory": "",
 			"volumestep": 0.05
 		},
@@ -43,7 +43,8 @@
 			"gain": 0.1
 		},
 		"tts": {
-			"_cacheDir": "/home/ubuntu/node-jeanne/data/tts/",
-		}
+			"directory": "/home/ubuntu/node-jeanne/data/tts/"
+		},
+		"parser": true
 	}
 }
