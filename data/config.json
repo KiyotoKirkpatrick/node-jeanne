@@ -41,6 +41,9 @@
 				"max": 1800
 			},
 			"gain": 0.1
+		},
+		"tts": {
+			"_cacheDir": "/home/ubuntu/node-jeanne/data/tts/",
 		}
 	}
 }
